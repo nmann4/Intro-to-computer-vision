@@ -10,5 +10,5 @@ This repo will contain code from the Udacity Intro to Computer Vision course
 
 Most of the code is written by myself
 
-When I got stuck I used the following repo to help
+When I got stuck I used the following repo in writing some of the code.
 [Link to repo](https://github.com/pdvelez/CV-lecture-quizzes-python)
